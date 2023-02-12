@@ -23,6 +23,6 @@ pip install PyPDF2
 python pdf_to_text.py example.pdf
 ```
 
-4.The script will create a text file with the same name as the PDF file in the same directory. In this example, the script will create a file named example.txt.
+4.The script will create a text file with the same name as the PDF file in the same directory. In this example, the script will create a file named **example.txt**.
 
-Note: Replace example.pdf with the name of your PDF file.
+Note: **Replace example.pdf with the name of your PDF file**.
