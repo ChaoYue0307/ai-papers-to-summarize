@@ -5,7 +5,12 @@ A Python script that can be used to convert PDF files to text files. The script 
 
 ## Requirements
 - Python 3.x
-- PyPDF2 library
+- PyPDF2 library:
+Install it:
+
+```
+pip install PyPDF2
+```
 
 ## Usage
 1.Put the pdf_to_text.py file in the same directory as your PDF file that you want to convert.
